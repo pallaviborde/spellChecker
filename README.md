@@ -1,5 +1,7 @@
 # spellChecker
 ReadMe file:
+This program provides fast spell checking with time complexity O(1). 
+Input can be given as a file which needs to be spell checked. 
 
 Prerequisites for simple and fast spell checker:
 
